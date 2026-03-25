@@ -1,46 +1,88 @@
 <div align="center">
 
-<!-- BANNIÈRE — tes propres images uploadées dans le repo -->
-<img src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/main/banniere_facebook_HD.png" width="100%" alt="Horace Ariel — Mobile & Backend Engineer"/>
+<img src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/main/banniere_facebook_HD.png" width="100%" alt="Horace Ariel"/>
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Flutter+%C3%97+Spring+Boot+%C3%97+Go;Building+apps+that+perform.+%F0%9F%9A%80;Mobile+%7C+Backend+%7C+DevOps;From+Cotonou%2C+Benin+%F0%9F%87%A7%F0%9F%87%AF+to+the+World)](https://git.io/typing-svg)
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-D4AF37?style=for-the-badge&logoColor=1a1108)](https://shoracedarios.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/✉️_M'écrire-1a1108?style=for-the-badge&logoColor=D4AF37)](mailto:horaceariel14@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290157574625)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Horace+Ariel;Flutter+%C3%97+Spring+Boot+%C3%97+Go+Developer;Building+apps+that+perform+%F0%9F%9A%80;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://shoracedarios.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐 Mon Portfolio-D4AF37?style=for-the-badge" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:horaceariel14@gmail.com">
+  <img src="https://img.shields.io/badge/✉️ M'écrire-1a1108?style=for-the-badge" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://wa.me/2290157574625">
+  <img src="https://img.shields.io/badge/💬 WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 Qui suis-je ?
+## 👨‍💻 À propos de moi
 
 ```go
+package main
+
+import "fmt"
+
 type Developer struct {
-    Name      string
-    Location  string
-    Stack     []string
-    Available bool
+	Name       string
+	Location   string
+	Focus      string
+	Stack      []string
+	Available  bool
+	Motto      string
 }
 
 func main() {
-    me := Developer{
-        Name:      "Horace Ariel",
-        Location:  "Cotonou, Bénin 🇧🇯",
-        Stack:     []string{"Flutter", "Spring Boot", "Go"},
-        Available: true, // Open to remote work ✅
-    }
-    fmt.Println("Vos idées méritent une app qui performe. 🚀")
+	me := Developer{
+		Name:      "Horace Ariel",
+		Location:  "Cotonou, Bénin 🇧🇯",
+		Focus:     "Mobile & Backend Engineer",
+		Stack:     []string{"Flutter", "Spring Boot", "Go", "Docker"},
+		Available: true, // Remote ✅
+		Motto:     "Vos idées méritent une app qui performe.",
+	}
+	fmt.Printf("🚀 %s — %s\n", me.Name, me.Motto)
 }
 ```
 
-Je suis **Horace Ariel**, développeur mobile & backend basé à **Cotonou, Bénin**.  
-Apps cross-platform Flutter · APIs Spring Boot · Services Go  
-2+ ans d'expérience · 3+ apps livrées · 100% Remote ✅
+<table>
+<tr>
+<td>🎯 <b>Focus</b></td>
+<td>Mobile cross-platform & Backend scalable</td>
+</tr>
+<tr>
+<td>📍 <b>Localisation</b></td>
+<td>Cotonou, Bénin 🇧🇯</td>
+</tr>
+<tr>
+<td>💼 <b>Expérience</b></td>
+<td>2+ ans · 3+ apps livrées en production</td>
+</tr>
+<tr>
+<td>🌍 <b>Disponibilité</b></td>
+<td>Open to remote · Freelance · Contract</td>
+</tr>
+<tr>
+<td>📡 <b>Protocols</b></td>
+<td>REST · WebSocket · MQTT · Firebase</td>
+</tr>
+</table>
 
 ---
 
@@ -48,79 +90,77 @@ Apps cross-platform Flutter · APIs Spring Boot · Services Go
 
 <div align="center">
 
-### 📱 Mobile
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-
-### ⚙️ Backend
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
-
-### 🗄️ Bases de données
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
-
-### 🐳 DevOps & Infra
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Ansible](https://skillicons.dev/icons?i=ansible)](https://ansible.com)
-
-### 🔧 Outils
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+| 📱 Mobile | ⚙️ Backend | 🗄️ Bases de données | 🐳 DevOps |
+|:---:|:---:|:---:|:---:|
+| ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Spring](https://skillicons.dev/icons?i=spring) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![Dart](https://skillicons.dev/icons?i=dart) | ![Java](https://skillicons.dev/icons?i=java) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Linux](https://skillicons.dev/icons?i=linux) |
+| | ![Go](https://skillicons.dev/icons?i=go) | ![Redis](https://skillicons.dev/icons?i=redis) | ![Ansible](https://skillicons.dev/icons?i=ansible) |
 
 </div>
 
 ---
 
-## 📊 Mes Stats GitHub
+## 🚀 Ce que je construis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoracedarios&show_icons=true&bg_color=1a1108&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoracedarios&layout=compact&bg_color=1a1108&title_color=D4AF37&text_color=ffffff&border_color=D4AF37&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shoracedarios&background=1a1108&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=ffffff&border=D4AF37)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoracedarios&theme=darkhub&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   📱 MOBILE          ⚙️ BACKEND           🐳 DEVOPS            │
+│   ─────────          ─────────           ──────                 │
+│   Flutter            Spring Boot         Docker                 │
+│   iOS & Android      REST APIs           CI/CD                  │
+│   BLoC · Riverpod    Microservices       Ansible                 │
+│   Custom UI/UX       MQTT · IoT          Linux                  │
+│   Deep Linking       Redis Cache         App Store              │
+│                      WebSocket                                  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📈 Activité récente
+## 💼 Services
 
 <div align="center">
 
-[![Activité](https://github-readme-activity-graph.vercel.app/graph?username=shoracedarios&bg_color=1a1108&color=D4AF37&line=D4AF37&point=ffffff&area=true&border_color=D4AF37)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+<tr>
+<td align="center" width="200">
+<br/>
+📱
+<br/><b>App Mobile</b><br/>
+<sub>Flutter · iOS & Android<br/>De l'idée au Store</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+⚙️
+<br/><b>Backend & API</b><br/>
+<sub>Spring Boot · Go<br/>Microservices scalables</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+🔗
+<br/><b>Full-Stack Mobile</b><br/>
+<sub>App + Serveur<br/>Une vision, un dev</sub>
+<br/><br/>
+</td>
+<td align="center" width="200">
+<br/>
+🐳
+<br/><b>DevOps</b><br/>
+<sub>Docker · CI/CD<br/>Je ship ce que je build</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-## 💼 Ce que je construis
-
-| 📱 Mobile (Flutter) | ⚙️ Backend | 🚀 DevOps |
-|:---|:---|:---|
-| Apps iOS & Android | Microservices Spring Boot | Docker & CI/CD |
-| BLoC · Riverpod | REST APIs · WebSocket | Ansible Automation |
-| UI/UX pixel-perfect | MQTT · IoT · Redis | Linux · App Store |
 
 ---
 
@@ -128,15 +168,36 @@ Apps cross-platform Flutter · APIs Spring Boot · Services Go
 
 <div align="center">
 
-| 🌐 Portfolio | ✉️ Email | 💬 WhatsApp |
-|:---:|:---:|:---:|
-| [Voir mon portfolio](https://shoracedarios.github.io/portfolio/) | [Envoyer un email](mailto:horaceariel14@gmail.com) | [Écrire sur WhatsApp](https://wa.me/2290157574625) |
+<table>
+<tr>
+<td align="center">
+<a href="https://shoracedarios.github.io/portfolio/">
+  <b>🌐 Portfolio</b><br/>
+  <sub>Voir mon travail</sub>
+</a>
+</td>
+<td align="center">
+<a href="mailto:horaceariel14@gmail.com">
+  <b>✉️ Email</b><br/>
+  <sub>Réponse sous 24h</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://wa.me/2290157574625">
+  <b>💬 WhatsApp</b><br/>
+  <sub>Message direct</sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
+
+*"Vos idées méritent une app qui performe."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shoracedarios&color=D4AF37&style=for-the-badge&label=VUES+DU+PROFIL)
 
