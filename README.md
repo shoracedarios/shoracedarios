@@ -1,74 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/main/banniere_facebook_HD.png" width="100%" alt="Horace Ariel — Mobile & Backend Engineer"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=750&lines=//+mobile+%26+backend+engineer;Flutter+%C3%97+Spring+Boot+%C3%97+Go;%F0%9F%90%89+Kali+Linux+—+Terminal-first.+Always.;%22Vos+id%C3%A9es+m%C3%A9ritent+une+app+qui+performe.%22)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://shoracedarios.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-D4AF37?style=for-the-badge" />
-</a>&nbsp;
-<a href="mailto:horaceariel14@gmail.com">
-  <img src="https://img.shields.io/badge/✉️%20Email-0d1117?style=for-the-badge" />
-</a>&nbsp;
-<a href="https://wa.me/2290157574625">
-  <img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/main/banniere_facebook_HD.png" width="100%" alt="Horace Ariel"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shoracedarios&color=D4AF37&style=for-the-badge&label=VUES+DU+PROFIL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+Je+suis+Horace+Ariel;Flutter+%C3%97+Spring+Boot+%C3%97+Go;%F0%9F%90%89+Kali+Linux+—+Terminal-first.;%22Vos+id%C3%A9es+m%C3%A9ritent+une+app+qui+performe.%22)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://shoracedarios.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-D4AF37?style=for-the-badge"/></a>&nbsp;
+<a href="mailto:horaceariel14@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-0d1117?style=for-the-badge"/></a>&nbsp;
+<a href="https://wa.me/2290157574625"><img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shoracedarios&color=D4AF37&style=for-the-badge&label=VUES+DU+PROFIL)&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Remote-D4AF37?style=for-the-badge)
 
 </div>
 
 ---
 
-## `01 —` Identité
+## `01 —` Qui suis-je ?
 
-```go
-package main
+Je suis **Horace Ariel**, développeur **Mobile & Backend** basé à **Cotonou, Bénin 🇧🇯**.
 
-import "fmt"
+Depuis 2+ ans, je conçois et livre des applications cross-platform avec **Flutter**, des APIs robustes avec **Spring Boot**, et des services performants avec **Go** — de l'idée jusqu'au déploiement en production.
 
-type Developer struct {
-    Name      string
-    Location  string
-    OS        string
-    Stack     []string
-    DB        []string
-    DevOps    []string
-    Protocols []string
-    Available bool
-    Motto     string
-}
+Je travaille sur **Kali Linux 🐉**, terminal-first, avec une approche DevOps intégrée : Docker, Ansible, CI/CD. Je ne fais pas que coder — je ship des solutions complètes.
 
-func main() {
-    me := Developer{
-        Name:      "Horace Ariel",
-        Location:  "Cotonou, Bénin 🇧🇯",
-        OS:        "Kali Linux 🐉 — Terminal-first. Always.",
-        Stack:     []string{"Flutter", "Dart", "Spring Boot", "Java", "Go"},
-        DB:        []string{"PostgreSQL", "MySQL", "Redis"},
-        DevOps:    []string{"Docker", "Ansible", "CI/CD", "Linux"},
-        Protocols: []string{"REST", "MQTT", "WebSocket", "Firebase"},
-        Available: true, // Remote · Freelance · Contract ✅
-        Motto:     "Vos idées méritent une app qui performe.",
-    }
-    fmt.Printf("🚀 %s — %s\n", me.Name, me.Motto)
-}
-```
+> *"Vos idées méritent une app qui performe."*
 
 <br/>
 
 <div align="center">
 
-| | | |
-|:---|:---|:---|
-| 📍 **Localisation** — Cotonou, Bénin 🇧🇯 | 🐉 **OS** — Kali Linux | 💼 **Exp** — 2+ ans · 3+ apps |
-| 🌍 **Dispo** — Remote · Freelance · Contract | 📡 **Protocols** — REST · MQTT · WebSocket | 🔥 **Focus** — Mobile · Backend · DevOps |
+| 📍 Cotonou, Bénin 🇧🇯 | 🐉 Kali Linux | 💼 2+ ans · 3+ apps livrées |
+|:---:|:---:|:---:|
+| 🌍 Remote · Freelance · Contract | 📡 REST · MQTT · WebSocket | 🔥 Mobile · Backend · DevOps |
 
 </div>
 
@@ -78,26 +47,9 @@ func main() {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="180">
-<h2>2+</h2>
-<sub>Années d'expérience</sub>
-</td>
-<td align="center" width="180">
-<h2>3+</h2>
-<sub>Apps livrées en production</sub>
-</td>
-<td align="center" width="180">
-<h2>5</h2>
-<sub>Langages maîtrisés</sub>
-</td>
-<td align="center" width="180">
-<h2>100%</h2>
-<sub>Remote Ready</sub>
-</td>
-</tr>
-</table>
+| 🗓️ **2+** | 📱 **3+** | 💻 **5** | 🌍 **100%** |
+|:---:|:---:|:---:|:---:|
+| Années d'expérience | Apps en production | Langages | Remote Ready |
 
 </div>
 
@@ -107,25 +59,20 @@ func main() {
 
 <div align="center">
 
-**📱 Mobile & Frontend**
+**📱 Mobile**&nbsp;&nbsp;
+[![Stack](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark&perline=3)](https://skillicons.dev)
 
-[![Flutter](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark)](https://skillicons.dev)
+**⚙️ Backend**&nbsp;&nbsp;
+[![Stack](https://skillicons.dev/icons?i=spring,java,go&theme=dark&perline=3)](https://skillicons.dev)
 
-**⚙️ Backend & API**
+**🗄️ Bases de données**&nbsp;&nbsp;
+[![Stack](https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=3)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=spring,java,go&theme=dark)](https://skillicons.dev)
+**🐳 DevOps & Système**&nbsp;&nbsp;
+[![Stack](https://skillicons.dev/icons?i=docker,ansible,linux,kali&theme=dark&perline=4)](https://skillicons.dev)
 
-**🗄️ Bases de données**
-
-[![DB](https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark)](https://skillicons.dev)
-
-**🐳 DevOps & Système**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,ansible,linux,kali&theme=dark)](https://skillicons.dev)
-
-**🔧 Outils**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+**🔧 Outils**&nbsp;&nbsp;
+[![Stack](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4)](https://skillicons.dev)
 
 </div>
 
@@ -135,42 +82,11 @@ func main() {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="210" valign="top">
-
-### `01` App Mobile
-Apps iOS & Android cross-platform. De l'idée au déploiement sur le Store.
-
-`Flutter` `Dart` `Firebase` `BLoC` `Riverpod`
-
-</td>
-<td width="210" valign="top">
-
-### `02` Backend & API
-Microservices scalables, APIs REST robustes, real-time MQTT & WebSocket.
-
-`Spring Boot` `Go` `Redis` `PostgreSQL`
-
-</td>
-<td width="210" valign="top">
-
-### `03` Full-Stack Mobile
-Une vision, un seul dev. App + serveur + base de données, de bout en bout.
-
-`Flutter` `Spring Boot` `Docker` `CI/CD`
-
-</td>
-<td width="210" valign="top">
-
-### `04` DevOps & Infra
-Je ne fais pas que coder — je ship. Docker, CI/CD, Ansible, monitoring production.
-
-`Docker` `Ansible` `Linux` `Kali`
-
-</td>
-</tr>
-</table>
+| `01` 📱 App Mobile | `02` ⚙️ Backend & API | `03` 🔗 Full-Stack | `04` 🐳 DevOps |
+|:---|:---|:---|:---|
+| Apps iOS & Android cross-platform | Microservices scalables & REST | App + Serveur de bout en bout | Docker · CI/CD · Ansible |
+| De l'idée au Store | MQTT · WebSocket · Redis | Une vision, un seul dev | Je ship ce que je build |
+| `Flutter` `Dart` `Firebase` | `Spring Boot` `Go` `PostgreSQL` | `Flutter` `Spring Boot` | `Docker` `Ansible` `Kali` |
 
 </div>
 
@@ -178,12 +94,14 @@ Je ne fais pas que coder — je ship. Docker, CI/CD, Ansible, monitoring product
 
 ## `05 —` Mon processus
 
-```
-Discovery ──────► Architecture ──────► Development ──────► Launch
-    │                  │                    │                 │
- Vision &           Design des          Sprints agiles    Tests &
- Requirements       patterns            + demos hebdo     Déploiement
-```
+<div align="center">
+
+| 🔍 Discovery | 🏗️ Architecture | ⚡ Development | 🚀 Launch |
+|:---:|:---:|:---:|:---:|
+| Vision & Requirements | Design des patterns | Sprints agiles | Tests & Déploiement |
+| Scope & Timeline | Setup environnement | Demos hebdomadaires | App Store · Monitoring |
+
+</div>
 
 ---
 
@@ -198,6 +116,8 @@ Discovery ──────► Architecture ──────► Development �
 ---
 
 ## `07 —` Snake Animation
+
+> ⚙️ Active d'abord la GitHub Action ci-dessous, ensuite le snake apparaîtra ici automatiquement !
 
 <div align="center">
 
@@ -215,43 +135,9 @@ Discovery ──────► Architecture ──────► Development �
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="240">
-<a href="https://shoracedarios.github.io/portfolio/">
-<br/>
-🌐
-<br/>
-<b>Portfolio</b>
-<br/>
-<sub>Voir mon travail complet</sub>
-<br/><br/>
-</a>
-</td>
-<td align="center" width="240">
-<a href="mailto:horaceariel14@gmail.com">
-<br/>
-✉️
-<br/>
-<b>Email</b>
-<br/>
-<sub>horaceariel14@gmail.com</sub>
-<br/><br/>
-</a>
-</td>
-<td align="center" width="240">
-<a href="https://wa.me/2290157574625">
-<br/>
-💬
-<br/>
-<b>WhatsApp</b>
-<br/>
-<sub>Message direct</sub>
-<br/><br/>
-</a>
-</td>
-</tr>
-</table>
+| 🌐 [**Voir mon portfolio**](https://shoracedarios.github.io/portfolio/) | ✉️ [**Envoyer un email**](mailto:horaceariel14@gmail.com) | 💬 [**Écrire sur WhatsApp**](https://wa.me/2290157574625) |
+|:---:|:---:|:---:|
+| Voir mon travail complet | Réponse sous 24h | Message direct |
 
 </div>
 
@@ -259,6 +145,6 @@ Discovery ──────► Architecture ──────► Development �
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=80&section=footer&fontSize=16&fontColor=0d1117&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=80&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
