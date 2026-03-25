@@ -117,7 +117,7 @@ Je travaille sur **Kali Linux 🐉**, terminal-first, avec une approche DevOps i
 
 ## `07 —` Snake Animation
 
-> ⚙️ Active d'abord la GitHub Action ci-dessous, ensuite le snake apparaîtra ici automatiquement !
+
 
 <div align="center">
 
