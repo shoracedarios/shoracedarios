@@ -135,7 +135,7 @@ Je travaille sur **Kali Linux 🐉**, terminal-first, avec une approche DevOps i
 
 <div align="center">
 
-| 🌐 [**Voir mon portfolio**](https://shoracedarios.github.io/portfolio/) | ✉️ [**Envoyer un email**](mailto:horaceariel14@gmail.com) | 💬 [**Écrire sur WhatsApp**](https://wa.me/2290157574625) |
+| 🌐 [**Voir mon portfolio**](https://horaceariel.vercel.app/) | ✉️ [**Envoyer un email**](mailto:horaceariel14@gmail.com) | 💬 [**Écrire sur WhatsApp**](https://wa.me/2290157574625) |
 |:---:|:---:|:---:|
 | Voir mon travail complet | Réponse sous 24h | Message direct |
 
