@@ -105,33 +105,7 @@ Je travaille sur **Kali Linux 🐉**, terminal-first, avec une approche DevOps i
 
 ---
 
-## `06 —` GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shoracedarios&theme=tokyonight&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=ffffff&dates=888888&border=1e2530&stroke=1e2530" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `07 —` Snake Animation
-
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoracedarios/shoracedarios/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoracedarios/shoracedarios/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## `08 —` Me contacter
+## `06 —` Me contacter
 
 <div align="center">
 
