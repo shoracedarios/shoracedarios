@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shoracedarios/shoracedarios/main/banniere_facebook_HD.png" width="100%" alt="Horace Ariel"/>
 
 <br/><br/>
 
